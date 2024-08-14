@@ -1,5 +1,5 @@
-#Use this script to delegate access to a mailbox without
-#mapping the mailbox to Outlook.
+#Use this script to delegate Full Access to a M365
+#mailbox without mapping the mailbox to Outlook.
 
 #Connect to Exchange Online
 Connect-ExchangeOnline
